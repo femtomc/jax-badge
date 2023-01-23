@@ -1,6 +1,6 @@
 # jax-badge
 
-[![jax_badge][jax_badge_link]][jax_link]
+![jax_badge][jax_badge_link]
 
 An awesome [shields.io](https://shields.io/) badge to showcase that your project uses JAX under the hood!
 
